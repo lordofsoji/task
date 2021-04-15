@@ -1,0 +1,61 @@
+header {
+    text-align: center;
+}
+
+h3 {
+    border-style: groove;
+    
+    
+}
+
+.profile {
+    margin-bottom: 50px;
+}
+
+.date {
+    float: right;
+    
+
+}
+
+.degree {
+    margin-bottom: 50px;
+    line-height: 50px;
+}
+
+.school {
+    float: right;
+}
+
+.waec {
+    line-height: 50px;
+}
+
+.survey {
+    margin-bottom: 50px;
+}
+
+.camp {
+    margin-bottom: 50px;
+}
+
+.basic {
+    margin-bottom: 50px;
+}
+
+
+.status {
+    margin-bottom: 50px;
+}
+
+.travel {
+    margin-bottom: 50px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.linked {
+    margin-right: 10px;
+}
